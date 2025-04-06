@@ -32,7 +32,7 @@ A lightweight, fully client-side chatbot interface powered by **DeepSeek AI**, u
 3. Start chatting with the AI immediately!
 ```
 
-##Tech stack
+## Tech stack
 - HTML5 / CSS3 / JavaScript
 - Puter.js (AI interface)
 - Marked.js (for Markdown rendering)
