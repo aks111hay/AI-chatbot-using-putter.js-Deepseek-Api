@@ -27,7 +27,7 @@ A lightweight, fully client-side chatbot interface powered by **DeepSeek AI**, u
 ## 🛠️ Setup Instructions
 
 ```bash
-1. Clone this repository or download the source files.
+1. Clone this repository.
 2. Open `chatbot.html` in your browser.
 3. Start chatting with the AI immediately!
 
