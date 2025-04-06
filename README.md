@@ -30,13 +30,14 @@ A lightweight, fully client-side chatbot interface powered by **DeepSeek AI**, u
 1. Clone this repository.
 2. Open `chatbot.html` in your browser.
 3. Start chatting with the AI immediately!
+```
 
-#Tech stack
+##Tech stack
 - HTML5 / CSS3 / JavaScript
 - Puter.js (AI interface)
 - Marked.js (for Markdown rendering)
 
-#❓ How It Works
+ ## ❓ How It Works
 This project uses:
 
 - Puter.js: A JavaScript library that abstracts AI model access.
@@ -44,13 +45,13 @@ This project uses:
 - Streaming API: Chatbot responses are displayed token-by-token in real time.
 - Markdown Support: Responses can include formatted content (bold, italics, lists, etc.).
 
-#📜 License & Usage
+##📜 License & Usage
 This project is free to use for personal, educational, and demo purposes. For commercial or production use:
 
 - Review Puter’s Terms of Service
 - Ensure compliance with DeepSeek's model usage restrictions
 
-#🙌 Acknowledgments
+##🙌 Acknowledgments
 - Puter.js: https://js.puter.com
 - DeepSeek AI: https://deepseek.com
 - Marked.js: https://marked.js.org
