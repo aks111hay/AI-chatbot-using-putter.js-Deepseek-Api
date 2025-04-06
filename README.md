@@ -45,15 +45,15 @@ This project uses:
 - Streaming API: Chatbot responses are displayed token-by-token in real time.
 - Markdown Support: Responses can include formatted content (bold, italics, lists, etc.).
 
-##📜 License & Usage
+## 📜 License & Usage
 This project is free to use for personal, educational, and demo purposes. For commercial or production use:
 
 - Review Puter’s Terms of Service
 - Ensure compliance with DeepSeek's model usage restrictions
 
-##🙌 Acknowledgments
+## 🙌 Acknowledgments
 - Puter.js: https://js.puter.com
 - DeepSeek AI: https://deepseek.com
 - Marked.js: https://marked.js.org
 
-#Made with ❤️ by Akshay Kumar exploring the edge of AI and web tech.
+# Made with ❤️ by Akshay Kumar exploring the edge of AI and web tech.
